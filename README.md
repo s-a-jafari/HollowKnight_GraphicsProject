@@ -67,8 +67,8 @@ Since this project is built using the **LibGDX** framework and utilizes **Tiled*
 
 
 ### 🎮 Gameplay & Combat
-| Main Menu | Gameplay | Boss Fight |
-| :--- | :--- | :--- |
+| Main Menu | Gameplay | Boss Fight | Boss Fight |
+| :--- | :--- | :--- | :--- |
 | ![Main Menu](images/MainMenu.JPG) | ![Gameplay](images/GamePlay.JPG) | ![Boss Fight](images/BossFight.JPG) | ![Boss Fight 2](images/BossFight2.JPG) |
 
 ### ⚙️ Systems & UI
@@ -77,6 +77,6 @@ Since this project is built using the **LibGDX** framework and utilizes **Tiled*
 | ![Inventory](images/Inventory.JPG) | ![Settings](images/Setting.JPG) | ![Achievements](images/Achivement.JPG) | ![Guide](images/Guide.JPG) |
 
 ### 🏆 Endings
-| Boss Fight 2 | Win Menu |
-| :--- | :--- |
+| Win Menu |
+| :--- |
 | ![WinMenu](images/WinMenu.JPG) |
