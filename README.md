@@ -61,4 +61,22 @@ Since this project is built using the **LibGDX** framework and utilizes **Tiled*
 2. **Open the Project: Open your IDE and import the cloned folder as a Gradle project.**
 3. **Sync Dependencies: Wait for Gradle to build the project and download all necessary LibGDX libraries.**
 4. **Configure the Launcher... and Run...**
-   
+
+
+## 🖼️ Game Gallery
+
+
+### 🎮 Gameplay & Combat
+| Main Menu | Gameplay | Boss Fight |
+| :--- | :--- | :--- |
+| ![Main Menu](images/MainMenu.JPG) | ![Gameplay](images/GamePlay.JPG) | ![Boss Fight](images/BossFight.JPG) | ![Boss Fight 2](images/BossFight2.JPG) |
+
+### ⚙️ Systems & UI
+| Inventory | Settings | Achievements | Guide |
+| :--- | :--- | :--- | :--- |
+| ![Inventory](images/Inventory.JPG) | ![Settings](images/Setting.JPG) | ![Achievements](images/Achivement.JPG) | ![Guide](images/Guide.JPG) |
+
+### 🏆 Endings
+| Boss Fight 2 | Win Menu |
+| :--- | :--- |
+| ![WinMenu](images/WinMenu.JPG) |
