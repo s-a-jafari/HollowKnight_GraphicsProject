@@ -1,0 +1,145 @@
+Soulorb.png
+size: 1320, 254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HUD_Soulorb_fills_soul_grow0000
+  rotate: false
+  xy: 1, 1
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_grow0001
+  rotate: false
+  xy: 1, 128
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_grow0002
+  rotate: false
+  xy: 133, 1
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_grow0003
+  rotate: false
+  xy: 133, 128
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_grow0004
+  rotate: false
+  xy: 265, 1
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_grow0005
+  rotate: false
+  xy: 265, 128
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_grow0006
+  rotate: false
+  xy: 397, 1
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_grow0007
+  rotate: false
+  xy: 397, 128
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_idle0000
+  rotate: false
+  xy: 529, 1
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_idle0001
+  rotate: false
+  xy: 529, 128
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_idle0002
+  rotate: false
+  xy: 661, 1
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_idle0003
+  rotate: false
+  xy: 661, 128
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_idle0004
+  rotate: false
+  xy: 793, 1
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_idle0005
+  rotate: false
+  xy: 793, 128
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_shrink0000
+  rotate: false
+  xy: 925, 1
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_shrink0001
+  rotate: false
+  xy: 925, 128
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_shrink0002
+  rotate: false
+  xy: 1057, 1
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_shrink0003
+  rotate: false
+  xy: 1057, 128
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_shrink0004
+  rotate: false
+  xy: 1189, 1
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+HUD_Soulorb_fills_soul_shrink0005
+  rotate: false
+  xy: 1189, 128
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1

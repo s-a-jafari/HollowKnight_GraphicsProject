@@ -1,0 +1,56 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "newMap.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "crysalPath.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "crystal.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "flame.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "newMap.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 612,
+                "y": 1108
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/ASUS/Downloads/new map/assets/Particles & Effects/Fire & Smoke",
+    "map.height": 2000,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 3000,
+    "openFiles": [
+        "newMap.tmx",
+        "crysalPath.tsx",
+        "crystal.tsx",
+        "flame.tsx"
+    ],
+    "project": "newMap.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "flame.tsx",
+        "crystal.tsx",
+        "crysalPath.tsx",
+        "newMap.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 82,
+        "width": 82
+    }
+}

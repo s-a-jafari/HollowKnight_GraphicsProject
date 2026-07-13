@@ -1,0 +1,14 @@
+version: 2
+type: animation
+name: Scream
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 7
+0	Scream_000.png
+1	Scream_001.png
+2	Scream_002.png
+3	Scream_003.png
+4	Scream_004.png
+5	Scream_005.png
+6	Scream_006.png

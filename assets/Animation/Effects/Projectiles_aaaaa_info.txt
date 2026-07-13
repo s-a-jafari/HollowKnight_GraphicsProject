@@ -1,0 +1,13 @@
+version: 2
+type: animation
+name: Shockwave Spurt
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 6
+0	Shockwave Spurt_000.png
+1	Shockwave Spurt_001.png
+2	Shockwave Spurt_002.png
+3	Shockwave Spurt_003.png
+4	Shockwave Spurt_004.png
+5	Shockwave Spurt_005.png

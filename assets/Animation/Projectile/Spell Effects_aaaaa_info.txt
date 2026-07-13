@@ -1,0 +1,10 @@
+version: 2
+type: animation
+name: Ball End
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 3
+0	Ball End_000.png
+1	Ball End_001.png
+2	Ball End_002.png

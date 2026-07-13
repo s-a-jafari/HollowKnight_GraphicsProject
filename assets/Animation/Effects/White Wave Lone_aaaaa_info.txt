@@ -1,0 +1,13 @@
+version: 2
+type: animation
+name: Quake Blast
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 6
+0	Quake Blast_000.png
+1	Quake Blast_001.png
+2	Quake Blast_002.png
+3	Quake Blast_003.png
+4	Quake Blast_004.png
+5	Quake Blast_005.png

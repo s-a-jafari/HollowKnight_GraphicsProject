@@ -1,0 +1,1831 @@
+Spell-0.png
+size: 4090, 4085
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spell Effects 2_double_jump_wings0000
+  rotate: false
+  xy: 2725, 407
+  size: 383, 356
+  orig: 383, 356
+  offset: 0, 0
+  index: -1
+Spell Effects 2_double_jump_wings0001
+  rotate: false
+  xy: 2769, 1
+  size: 383, 356
+  orig: 383, 356
+  offset: 0, 0
+  index: -1
+Spell Effects 2_double_jump_wings0002
+  rotate: false
+  xy: 3110, 359
+  size: 383, 356
+  orig: 383, 356
+  offset: 0, 0
+  index: -1
+Spell Effects 2_double_jump_wings0003
+  rotate: false
+  xy: 3154, 1
+  size: 383, 356
+  orig: 383, 356
+  offset: 0, 0
+  index: -1
+Spell Effects 2_double_jump_wings0004
+  rotate: false
+  xy: 2240, 2663
+  size: 383, 356
+  orig: 383, 356
+  offset: 0, 0
+  index: -1
+Spell Effects 2_double_jump_wings0005
+  rotate: false
+  xy: 2620, 3112
+  size: 383, 356
+  orig: 383, 356
+  offset: 0, 0
+  index: -1
+Spell Effects 2_dream_nail_impact0000
+  rotate: false
+  xy: 1922, 2111
+  size: 550, 152
+  orig: 550, 152
+  offset: 0, 0
+  index: -1
+Spell Effects 2_dream_nail_impact0001
+  rotate: false
+  xy: 3539, 1
+  size: 550, 152
+  orig: 550, 152
+  offset: 0, 0
+  index: -1
+Spell Effects 2_dream_nail_impact0002
+  rotate: false
+  xy: 3539, 155
+  size: 550, 152
+  orig: 550, 152
+  offset: 0, 0
+  index: -1
+Spell Effects 2_dream_nail_impact0003
+  rotate: false
+  xy: 3539, 309
+  size: 550, 152
+  orig: 550, 152
+  offset: 0, 0
+  index: -1
+Spell Effects 2_dream_nail_impact0004
+  rotate: false
+  xy: 2924, 1617
+  size: 550, 152
+  orig: 550, 152
+  offset: 0, 0
+  index: -1
+Spell Effects 2_dream_nail_impact0005
+  rotate: false
+  xy: 2924, 1771
+  size: 550, 152
+  orig: 550, 152
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_Create_Blade0000
+  rotate: false
+  xy: 1138, 3102
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_Create_Blade0001
+  rotate: false
+  xy: 1252, 2266
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_Create_Blade0002
+  rotate: false
+  xy: 1442, 1499
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_Create_Blade0003
+  rotate: false
+  xy: 1252, 2672
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_Create_Blade0004
+  rotate: false
+  xy: 347, 1
+  size: 516, 520
+  orig: 516, 520
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_Create_Blade0005
+  rotate: false
+  xy: 1632, 3078
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0000
+  rotate: false
+  xy: 1641, 837
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0001
+  rotate: false
+  xy: 1737, 419
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0002
+  rotate: false
+  xy: 1781, 1
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0003
+  rotate: false
+  xy: 1936, 1442
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0004
+  rotate: false
+  xy: 2135, 825
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0005
+  rotate: false
+  xy: 2231, 407
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0006
+  rotate: false
+  xy: 2275, 1
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0007
+  rotate: false
+  xy: 1746, 2266
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0008
+  rotate: false
+  xy: 1746, 2672
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0009
+  rotate: false
+  xy: 2126, 3078
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0010
+  rotate: false
+  xy: 2430, 1430
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_Knight_Dream_Gate_enter_blade0011
+  rotate: false
+  xy: 2629, 813
+  size: 492, 404
+  orig: 492, 404
+  offset: 0, 0
+  index: -1
+Spell Effects 2_power_blast0000
+  rotate: false
+  xy: 261, 2130
+  size: 350, 134
+  orig: 350, 134
+  offset: 0, 0
+  index: -1
+Spell Effects 2_power_blast0001
+  rotate: false
+  xy: 613, 2130
+  size: 350, 134
+  orig: 350, 134
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0000
+  rotate: false
+  xy: 1138, 3508
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0001
+  rotate: false
+  xy: 1472, 3508
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0002
+  rotate: false
+  xy: 1806, 3484
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0003
+  rotate: false
+  xy: 2140, 3484
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0004
+  rotate: false
+  xy: 2474, 3484
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0005
+  rotate: false
+  xy: 2474, 2234
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0006
+  rotate: false
+  xy: 2808, 3470
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0007
+  rotate: false
+  xy: 2909, 3778
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0004
+  rotate: false
+  xy: 3482, 1215
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0005
+  rotate: false
+  xy: 3479, 1507
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0006
+  rotate: false
+  xy: 3476, 1799
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0007
+  rotate: false
+  xy: 3472, 2091
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0008
+  rotate: false
+  xy: 3421, 2383
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0009
+  rotate: false
+  xy: 3421, 2675
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0010
+  rotate: false
+  xy: 3415, 2967
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0011
+  rotate: false
+  xy: 3415, 3259
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0012
+  rotate: false
+  xy: 3405, 3551
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_tele_charge_new0000
+  rotate: false
+  xy: 347, 523
+  size: 492, 496
+  orig: 492, 496
+  offset: 0, 0
+  index: -1
+Spell Effects 2_tele_charge_new0001
+  rotate: false
+  xy: 347, 1021
+  size: 492, 496
+  orig: 492, 496
+  offset: 0, 0
+  index: -1
+Spell Effects 2_tele_charge_new0002
+  rotate: false
+  xy: 640, 1519
+  size: 492, 496
+  orig: 492, 496
+  offset: 0, 0
+  index: -1
+Spell Effects 2_tele_charge_new0003
+  rotate: false
+  xy: 841, 523
+  size: 492, 496
+  orig: 492, 496
+  offset: 0, 0
+  index: -1
+Spell Effects 2_tele_charge_new0004
+  rotate: false
+  xy: 841, 1021
+  size: 492, 496
+  orig: 492, 496
+  offset: 0, 0
+  index: -1
+Spell Effects 2_unnamed
+  rotate: false
+  xy: 347, 1519
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+Spell Effects 2_unnamed
+  rotate: false
+  xy: 347, 1519
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+Spell Effects Neutral_fireball_lvl_02_blast_effect0006
+  rotate: false
+  xy: 1, 4063
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_lvl_02_blast_effect0007
+  rotate: false
+  xy: 43, 4059
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_lvl_02_blast_effect0008
+  rotate: false
+  xy: 1, 4050
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_lvl_02_blast_effect0009
+  rotate: false
+  xy: 48, 4050
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0000
+  rotate: false
+  xy: 1, 4073
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0001
+  rotate: false
+  xy: 7, 4063
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0002
+  rotate: false
+  xy: 12, 4050
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0003
+  rotate: false
+  xy: 10, 4072
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0004
+  rotate: false
+  xy: 16, 4059
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0005
+  rotate: false
+  xy: 21, 4050
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0006
+  rotate: false
+  xy: 19, 4068
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0007
+  rotate: false
+  xy: 25, 4059
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0008
+  rotate: false
+  xy: 30, 4050
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0009
+  rotate: false
+  xy: 19, 4077
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0010
+  rotate: false
+  xy: 28, 4068
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0011
+  rotate: false
+  xy: 34, 4059
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0012
+  rotate: false
+  xy: 39, 4050
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0013
+  rotate: false
+  xy: 28, 4077
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_spiral0014
+  rotate: false
+  xy: 37, 4068
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_quake_impact
+  rotate: false
+  xy: 1527, 864
+  size: 112, 416
+  orig: 112, 416
+  offset: 0, 0
+  index: 20000
+Spell Effects Neutral_quake_impact
+  rotate: false
+  xy: 1553, 1
+  size: 112, 416
+  orig: 112, 416
+  offset: 0, 0
+  index: 20001
+Spell Effects Neutral_quake_impact
+  rotate: false
+  xy: 1623, 419
+  size: 112, 416
+  orig: 112, 416
+  offset: 0, 0
+  index: 20002
+Spell Effects Neutral_quake_impact
+  rotate: false
+  xy: 1667, 1
+  size: 112, 416
+  orig: 112, 416
+  offset: 0, 0
+  index: 20003
+Spell Effects Neutral_quake_impact
+  rotate: false
+  xy: 1138, 2266
+  size: 112, 416
+  orig: 112, 416
+  offset: 0, 0
+  index: 20004
+Spell Effects Neutral_quake_impact
+  rotate: false
+  xy: 1138, 2684
+  size: 112, 416
+  orig: 112, 416
+  offset: 0, 0
+  index: 20005
+Spell Effects Neutral_quake_lvl2_blast
+  rotate: false
+  xy: 1, 2269
+  size: 377, 523
+  orig: 377, 523
+  offset: 0, 0
+  index: 20000
+Spell Effects Neutral_quake_lvl2_blast
+  rotate: false
+  xy: 261, 1605
+  size: 377, 523
+  orig: 377, 523
+  offset: 0, 0
+  index: 20001
+Spell Effects Neutral_quake_lvl2_blast
+  rotate: false
+  xy: 1, 2794
+  size: 377, 523
+  orig: 377, 523
+  offset: 0, 0
+  index: 20002
+Spell Effects Neutral_quake_lvl2_blast
+  rotate: false
+  xy: 1, 3319
+  size: 377, 523
+  orig: 377, 523
+  offset: 0, 0
+  index: 20003
+Spell Effects Neutral_quake_lvl2_blast
+  rotate: false
+  xy: 380, 2266
+  size: 377, 523
+  orig: 377, 523
+  offset: 0, 0
+  index: 20004
+Spell Effects Neutral_quake_lvl2_blast
+  rotate: false
+  xy: 380, 2791
+  size: 377, 523
+  orig: 377, 523
+  offset: 0, 0
+  index: 20005
+Spell Effects Neutral_quake_lvl2_blast
+  rotate: false
+  xy: 380, 3316
+  size: 377, 523
+  orig: 377, 523
+  offset: 0, 0
+  index: 20006
+Spell Effects Neutral_quake_lvl2_blast
+  rotate: false
+  xy: 759, 2266
+  size: 377, 523
+  orig: 377, 523
+  offset: 0, 0
+  index: 20007
+Spell Effects Neutral_quake_lvl2_blast
+  rotate: false
+  xy: 759, 2791
+  size: 377, 523
+  orig: 377, 523
+  offset: 0, 0
+  index: 20008
+Spell Effects Neutral_quake_lvl2_blast
+  rotate: false
+  xy: 759, 3316
+  size: 377, 523
+  orig: 377, 523
+  offset: 0, 0
+  index: 20009
+Spell Effects Neutral_quake_lvl2_dash_effect0000
+  rotate: false
+  xy: 1134, 1519
+  size: 210, 451
+  orig: 210, 451
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_quake_lvl2_dash_effect0001
+  rotate: false
+  xy: 865, 1
+  size: 210, 451
+  orig: 210, 451
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_quake_lvl2_dash_effect0002
+  rotate: false
+  xy: 1077, 1
+  size: 210, 451
+  orig: 210, 451
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_quake_lvl2_short_blast0000
+  rotate: false
+  xy: 1335, 435
+  size: 94, 427
+  orig: 94, 427
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_quake_lvl2_short_blast0001
+  rotate: false
+  xy: 1335, 864
+  size: 94, 427
+  orig: 94, 427
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_quake_lvl2_short_blast0002
+  rotate: false
+  xy: 1346, 1499
+  size: 94, 427
+  orig: 94, 427
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_quake_lvl2_short_blast0003
+  rotate: false
+  xy: 1431, 435
+  size: 94, 427
+  orig: 94, 427
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_quake_lvl2_short_blast0004
+  rotate: false
+  xy: 1431, 864
+  size: 94, 427
+  orig: 94, 427
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_quake_lvl2_short_blast0005
+  rotate: false
+  xy: 1527, 435
+  size: 94, 427
+  orig: 94, 427
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 1832, 3792
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20000
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 2191, 3792
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20001
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 2550, 3792
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20002
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 3123, 1029
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20003
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 3120, 1323
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20004
+Spell Effects Neutral_scream_ground_blast_lvl
+  rotate: false
+  xy: 3005, 3039
+  size: 408, 174
+  orig: 408, 174
+  offset: 0, 0
+  index: 20000
+Spell Effects Neutral_scream_ground_blast_lvl
+  rotate: false
+  xy: 3005, 3215
+  size: 408, 174
+  orig: 408, 174
+  offset: 0, 0
+  index: 20001
+Spell Effects Neutral_shade_impact_effect0000
+  rotate: false
+  xy: 640, 2017
+  size: 370, 102
+  orig: 370, 102
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_shade_impact_effect0001
+  rotate: false
+  xy: 1012, 2017
+  size: 370, 102
+  orig: 370, 102
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_shade_impact_effect0002
+  rotate: false
+  xy: 3123, 717
+  size: 370, 102
+  orig: 370, 102
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_shade_impact_effect0003
+  rotate: false
+  xy: 3123, 821
+  size: 370, 102
+  orig: 370, 102
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_shade_impact_effect0004
+  rotate: false
+  xy: 3123, 925
+  size: 370, 102
+  orig: 370, 102
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_single_fireball0000
+  rotate: false
+  xy: 2909, 2880
+  size: 504, 157
+  orig: 504, 157
+  offset: 0, 0
+  index: -1
+Spell Effects_burst0000
+  rotate: false
+  xy: 2958, 1219
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+Spell Effects_burst0001
+  rotate: false
+  xy: 2958, 1375
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+Spell Effects_burst0002
+  rotate: false
+  xy: 2625, 2542
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+Spell Effects_burst0003
+  rotate: false
+  xy: 2625, 2698
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+Spell Effects_burst0004
+  rotate: false
+  xy: 3243, 3391
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+Spell Effects_burst0005
+  rotate: false
+  xy: 3243, 3547
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+Spell Effects_burst0006
+  rotate: false
+  xy: 1306, 3816
+  size: 266, 257
+  orig: 266, 257
+  offset: 0, 0
+  index: -1
+Spell Effects_burst_effect0000
+  rotate: false
+  xy: 3243, 3855
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_burst_effect0001
+  rotate: false
+  xy: 3594, 3843
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_v020000
+  rotate: false
+  xy: 965, 2121
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_v020001
+  rotate: false
+  xy: 1284, 2121
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_v020002
+  rotate: false
+  xy: 1603, 2121
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_wall_impact_effect0000
+  rotate: false
+  xy: 1, 3844
+  size: 259, 204
+  orig: 259, 204
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_wall_impact_effect0001
+  rotate: false
+  xy: 262, 3844
+  size: 259, 204
+  orig: 259, 204
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_wall_impact_effect0002
+  rotate: false
+  xy: 523, 3841
+  size: 259, 204
+  orig: 259, 204
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_wall_impact_effect0003
+  rotate: false
+  xy: 784, 3841
+  size: 259, 204
+  orig: 259, 204
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_wall_impact_effect0004
+  rotate: false
+  xy: 1045, 3841
+  size: 259, 204
+  orig: 259, 204
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_wall_impact_effect0005
+  rotate: false
+  xy: 1335, 1293
+  size: 259, 204
+  orig: 259, 204
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_wall_impact_effect0006
+  rotate: false
+  xy: 1896, 1905
+  size: 259, 204
+  orig: 259, 204
+  offset: 0, 0
+  index: -1
+Spell Effects_Ghost_flash0004
+  rotate: false
+  xy: 3243, 3703
+  size: 134, 150
+  orig: 134, 150
+  offset: 0, 0
+  index: -1
+Spell Effects_Ghost_flash0005
+  rotate: false
+  xy: 1, 1605
+  size: 258, 662
+  orig: 258, 662
+  offset: 0, 0
+  index: -1
+Spell Effects_Ghost_flash0006
+  rotate: false
+  xy: 1, 1
+  size: 344, 800
+  orig: 344, 800
+  offset: 0, 0
+  index: -1
+Spell Effects_Ghost_flash0007
+  rotate: false
+  xy: 1, 803
+  size: 344, 800
+  orig: 344, 800
+  offset: 0, 0
+  index: -1
+Spell Effects_Ghost_flash0008
+  rotate: false
+  xy: 1289, 1
+  size: 262, 432
+  orig: 262, 432
+  offset: 0, 0
+  index: -1
+Spell Effects_plink0000
+  rotate: false
+  xy: 1574, 3816
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Spell Effects_plink0001
+  rotate: false
+  xy: 2157, 1848
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Spell Effects_plink0002
+  rotate: false
+  xy: 2415, 1848
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Spell Effects_plink0003
+  rotate: false
+  xy: 2625, 2854
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_blast0000
+  rotate: false
+  xy: 3495, 463
+  size: 561, 186
+  orig: 561, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_blast0001
+  rotate: false
+  xy: 3495, 651
+  size: 561, 186
+  orig: 561, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_blast0002
+  rotate: false
+  xy: 3495, 839
+  size: 561, 186
+  orig: 561, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_blast0003
+  rotate: false
+  xy: 3495, 1027
+  size: 561, 186
+  orig: 561, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_blast0004
+  rotate: false
+  xy: 2909, 1925
+  size: 561, 186
+  orig: 561, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_blast0005
+  rotate: false
+  xy: 2909, 2113
+  size: 561, 186
+  orig: 561, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_charge0000
+  rotate: false
+  xy: 1596, 1282
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_charge0001
+  rotate: false
+  xy: 1823, 1243
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_charge0002
+  rotate: false
+  xy: 2050, 1243
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_charge0003
+  rotate: false
+  xy: 2277, 1231
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_charge0004
+  rotate: false
+  xy: 2504, 1231
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_charge0005
+  rotate: false
+  xy: 2731, 1219
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_charge0006
+  rotate: false
+  xy: 2673, 1836
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_charge0007
+  rotate: false
+  xy: 2673, 2035
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_charge0008
+  rotate: false
+  xy: 2240, 2265
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_charge0009
+  rotate: false
+  xy: 2240, 2464
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_dash_lines0000
+  rotate: false
+  xy: 2808, 2234
+  size: 83, 132
+  orig: 83, 132
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_dash_lines0001
+  rotate: false
+  xy: 2808, 2368
+  size: 83, 132
+  orig: 83, 132
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_dash_lines0002
+  rotate: false
+  xy: 2808, 2502
+  size: 83, 132
+  orig: 83, 132
+  offset: 0, 0
+  index: -1
+Spell Effects_quake_dash_lines0003
+  rotate: false
+  xy: 2808, 2636
+  size: 83, 132
+  orig: 83, 132
+  offset: 0, 0
+  index: -1
+Spell Effects_sharp_flash0000
+  rotate: false
+  xy: 1384, 1928
+  size: 510, 191
+  orig: 510, 191
+  offset: 0, 0
+  index: -1
+Spell Effects_sharp_flash0001
+  rotate: false
+  xy: 2909, 2301
+  size: 510, 191
+  orig: 510, 191
+  offset: 0, 0
+  index: -1
+Spell Effects_sharp_flash0002
+  rotate: false
+  xy: 2909, 2494
+  size: 510, 191
+  orig: 510, 191
+  offset: 0, 0
+  index: -1
+Spell Effects_sharp_flash0003
+  rotate: false
+  xy: 2909, 2687
+  size: 510, 191
+  orig: 510, 191
+  offset: 0, 0
+  index: -1
+
+Spell-1.png
+size: 4091, 2026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spell Effects 2_power_blast0002
+  rotate: false
+  xy: 3363, 1023
+  size: 350, 134
+  orig: 350, 134
+  offset: 0, 0
+  index: -1
+Spell Effects 2_power_blast0003
+  rotate: false
+  xy: 3532, 1208
+  size: 350, 134
+  orig: 350, 134
+  offset: 0, 0
+  index: -1
+Spell Effects 2_power_blast0004
+  rotate: false
+  xy: 3252, 1344
+  size: 350, 134
+  orig: 350, 134
+  offset: 0, 0
+  index: -1
+Spell Effects 2_power_blast0005
+  rotate: false
+  xy: 3604, 1344
+  size: 350, 134
+  orig: 350, 134
+  offset: 0, 0
+  index: -1
+Spell Effects 2_power_blast0006
+  rotate: false
+  xy: 2953, 1891
+  size: 350, 134
+  orig: 350, 134
+  offset: 0, 0
+  index: -1
+Spell Effects 2_power_blast0007
+  rotate: false
+  xy: 3305, 1856
+  size: 350, 134
+  orig: 350, 134
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0008
+  rotate: false
+  xy: 1, 1
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0009
+  rotate: false
+  xy: 1, 309
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0010
+  rotate: false
+  xy: 1, 617
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0011
+  rotate: false
+  xy: 1, 925
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_scream_effect0012
+  rotate: false
+  xy: 1, 1233
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0013
+  rotate: false
+  xy: 694, 295
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0014
+  rotate: false
+  xy: 1053, 1
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0015
+  rotate: false
+  xy: 694, 587
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0016
+  rotate: false
+  xy: 694, 879
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0017
+  rotate: false
+  xy: 694, 1171
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0018
+  rotate: false
+  xy: 719, 1463
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0019
+  rotate: false
+  xy: 1300, 293
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects 2_slash_effect0020
+  rotate: false
+  xy: 1659, 1
+  size: 604, 290
+  orig: 604, 290
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_lvl_02_blast_effect0000
+  rotate: false
+  xy: 1300, 585
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_lvl_02_blast_effect0001
+  rotate: false
+  xy: 1300, 876
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_lvl_02_blast_effect0002
+  rotate: false
+  xy: 1300, 1167
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_lvl_02_blast_effect0003
+  rotate: false
+  xy: 1325, 1458
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_lvl_02_blast_effect0004
+  rotate: false
+  xy: 1608, 585
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_fireball_lvl_02_blast_effect0005
+  rotate: false
+  xy: 1906, 293
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_quake_lvl_02_blast
+  rotate: false
+  xy: 2575, 480
+  size: 357, 131
+  orig: 357, 131
+  offset: 0, 0
+  index: 10000
+Spell Effects Neutral_quake_lvl_02_blast
+  rotate: false
+  xy: 2575, 613
+  size: 357, 131
+  orig: 357, 131
+  offset: 0, 0
+  index: 10001
+Spell Effects Neutral_quake_lvl_02_blast
+  rotate: false
+  xy: 2575, 746
+  size: 357, 131
+  orig: 357, 131
+  offset: 0, 0
+  index: 10002
+Spell Effects Neutral_quake_lvl_02_blast
+  rotate: false
+  xy: 2575, 879
+  size: 357, 131
+  orig: 357, 131
+  offset: 0, 0
+  index: 10003
+Spell Effects Neutral_quake_lvl_02_blast
+  rotate: false
+  xy: 2575, 1012
+  size: 357, 131
+  orig: 357, 131
+  offset: 0, 0
+  index: 10004
+Spell Effects Neutral_quake_lvl_02_blast
+  rotate: false
+  xy: 3715, 1075
+  size: 357, 131
+  orig: 357, 131
+  offset: 0, 0
+  index: 10005
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 1, 1541
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20005
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 335, 1
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20006
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 335, 295
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20007
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 335, 589
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20008
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 335, 883
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20009
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 335, 1177
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20010
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 360, 1471
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20011
+Spell Effects Neutral_scream_blast_level
+  rotate: false
+  xy: 694, 1
+  size: 357, 292
+  orig: 357, 292
+  offset: 0, 0
+  index: 20012
+Spell Effects Neutral_scream_ground_blast_lvl
+  rotate: false
+  xy: 3459, 319
+  size: 408, 174
+  orig: 408, 174
+  offset: 0, 0
+  index: 20002
+Spell Effects Neutral_scream_ground_blast_lvl
+  rotate: false
+  xy: 2953, 478
+  size: 408, 174
+  orig: 408, 174
+  offset: 0, 0
+  index: 20003
+Spell Effects Neutral_scream_ground_blast_lvl
+  rotate: false
+  xy: 3363, 495
+  size: 408, 174
+  orig: 408, 174
+  offset: 0, 0
+  index: 20004
+Spell Effects Neutral_scream_ground_blast_lvl
+  rotate: false
+  xy: 2953, 654
+  size: 408, 174
+  orig: 408, 174
+  offset: 0, 0
+  index: 20005
+Spell Effects Neutral_scream_ground_blast_lvl
+  rotate: false
+  xy: 3363, 671
+  size: 408, 174
+  orig: 408, 174
+  offset: 0, 0
+  index: 20006
+Spell Effects Neutral_scream_ground_blast_lvl
+  rotate: false
+  xy: 2953, 830
+  size: 408, 174
+  orig: 408, 174
+  offset: 0, 0
+  index: 20007
+Spell Effects Neutral_scream_ground_blast_lvl
+  rotate: false
+  xy: 3363, 847
+  size: 408, 174
+  orig: 408, 174
+  offset: 0, 0
+  index: 20008
+Spell Effects Neutral_scream_ground_blast_lvl
+  rotate: false
+  xy: 2953, 1006
+  size: 408, 174
+  orig: 408, 174
+  offset: 0, 0
+  index: 20009
+Spell Effects Neutral_single_fireball0001
+  rotate: false
+  xy: 2953, 1
+  size: 504, 157
+  orig: 504, 157
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_single_fireball0002
+  rotate: false
+  xy: 3459, 1
+  size: 504, 157
+  orig: 504, 157
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_single_fireball0003
+  rotate: false
+  xy: 2953, 160
+  size: 504, 157
+  orig: 504, 157
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_single_fireball0004
+  rotate: false
+  xy: 3459, 160
+  size: 504, 157
+  orig: 504, 157
+  offset: 0, 0
+  index: -1
+Spell Effects Neutral_single_fireball0005
+  rotate: false
+  xy: 2953, 319
+  size: 504, 157
+  orig: 504, 157
+  offset: 0, 0
+  index: -1
+Spell Effects_blast_effect_v020000
+  rotate: false
+  xy: 1608, 876
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects_blast_effect_v020001
+  rotate: false
+  xy: 1608, 1167
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects_blast_effect_v020002
+  rotate: false
+  xy: 1633, 1458
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects_blast_effect_v020003
+  rotate: false
+  xy: 1916, 584
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects_blast_effect_v020004
+  rotate: false
+  xy: 2214, 293
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects_blast_effect_v020005
+  rotate: false
+  xy: 2265, 1
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects_blast_effect_v020006
+  rotate: false
+  xy: 1916, 875
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects_blast_effect_v020007
+  rotate: false
+  xy: 1916, 1166
+  size: 306, 289
+  orig: 306, 289
+  offset: 0, 0
+  index: -1
+Spell Effects_burst_effect0002
+  rotate: false
+  xy: 1, 1835
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_burst_effect0003
+  rotate: false
+  xy: 352, 1835
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_burst_effect0004
+  rotate: false
+  xy: 2199, 1457
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_burst_effect0005
+  rotate: false
+  xy: 2251, 1645
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_burst_effect0006
+  rotate: false
+  xy: 2251, 1833
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_burst_effect0007
+  rotate: false
+  xy: 2224, 584
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_v020003
+  rotate: false
+  xy: 3773, 495
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_v020004
+  rotate: false
+  xy: 3773, 640
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_v020005
+  rotate: false
+  xy: 3773, 785
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_v020006
+  rotate: false
+  xy: 3773, 930
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_v020007
+  rotate: false
+  xy: 2575, 1182
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_v020008
+  rotate: false
+  xy: 2894, 1182
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: -1
+Spell Effects_fireball_v020009
+  rotate: false
+  xy: 3213, 1182
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_appear0000
+  rotate: false
+  xy: 2522, 292
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_appear0001
+  rotate: false
+  xy: 2573, 1
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_appear0002
+  rotate: false
+  xy: 2224, 772
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_appear0003
+  rotate: false
+  xy: 2224, 960
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_appear0004
+  rotate: false
+  xy: 2224, 1148
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_appear0005
+  rotate: false
+  xy: 2550, 1336
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_appear0006
+  rotate: false
+  xy: 2602, 1524
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_effect0000
+  rotate: false
+  xy: 2602, 1712
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_effect0001
+  rotate: false
+  xy: 2901, 1327
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_effect0002
+  rotate: false
+  xy: 2953, 1515
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_effect0003
+  rotate: false
+  xy: 2953, 1703
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_effect0004
+  rotate: false
+  xy: 3304, 1480
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_effect0005
+  rotate: false
+  xy: 3304, 1668
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_effect0006
+  rotate: false
+  xy: 3657, 1480
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_focus_effect0007
+  rotate: false
+  xy: 3655, 1668
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: -1
+Spell Effects_plink0004
+  rotate: false
+  xy: 703, 1765
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Spell Effects_plink0005
+  rotate: false
+  xy: 961, 1755
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Spell Effects_plink0006
+  rotate: false
+  xy: 1219, 1755
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Spell Effects_plink0007
+  rotate: false
+  xy: 1477, 1749
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Spell Effects_plink0008
+  rotate: false
+  xy: 1735, 1749
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Spell Effects_plink0009
+  rotate: false
+  xy: 1941, 1457
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Spell Effects_plink0010
+  rotate: false
+  xy: 1993, 1715
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
