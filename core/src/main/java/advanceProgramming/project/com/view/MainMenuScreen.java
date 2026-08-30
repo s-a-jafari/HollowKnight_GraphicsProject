@@ -167,7 +167,7 @@ public class MainMenuScreen implements Screen {
     private void handleMenuClick(String item) {
         if (item.equals("START GAME")) {
             game.setScreen(new StartMenuScreen(game, activeBg));
-        } else if (item.equals("SETTING")) {
+        } else if (item.equals("SETTINGS")) {
             game.setScreen(new SettingsMenuScreen(game, this));
         } else if (item.equals("GUIDE")) {
             game.setScreen(new GuideMenuScreen(game));

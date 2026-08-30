@@ -17,7 +17,7 @@ public class SettingsData {
     public int keyAttack = Input.Keys.X;
     public int keyDash = Input.Keys.C;
     public int keySpell = Input.Keys.S;
-    public int keyHowling = Input.Keys.D;   // دکمه Howling
+    public int keyHowling = Input.Keys.D;
     public int keyFocus = Input.Keys.A;
     public int keyInventory = Input.Keys.I;
 
