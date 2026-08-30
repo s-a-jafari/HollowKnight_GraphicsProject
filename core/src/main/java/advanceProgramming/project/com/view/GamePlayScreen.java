@@ -176,9 +176,9 @@ public class GamePlayScreen implements Screen {
                 CrystalGuardian h = new CrystalGuardian(sp.x, sp.y, true);
                 h.spawnX = sp.x;
                 h.spawnY = sp.y;
-                h.isFacingRight = true;
-                enemies.add(h);
-                crystalGuardianController = new CrystalGuardianController(h, knightModel, solidBlocks);
+                crystalGuardian.isFacingRight = true;
+                enemies.add(crystalGuardian);
+                crystalGuardianController = new CrystalGuardianController(crystalGuardian, knightModel, solidBlocks);
                 enemyControllers.add(crystalGuardianController);
             }
 
@@ -649,7 +649,6 @@ public class GamePlayScreen implements Screen {
                 }
             }
         }
-
         batch.setProjectionMatrix(camera.combined);
         batch.begin();
 

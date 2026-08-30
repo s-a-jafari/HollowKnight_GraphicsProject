@@ -229,9 +229,9 @@ public class SettingsMenuScreen implements Screen {
         drawKeyText(jumpKeyBtn, "Jump", "keyJump", Input.Keys.Z, bundle);
         drawKeyText(attackKeyBtn, "Attack", "keyAttack", Input.Keys.X, bundle);
         drawKeyText(dashKeyBtn, "Dash", "keyDash", Input.Keys.C, bundle);
-        drawKeyText(spellKeyBtn, "Fireball", "keySpell", Input.Keys.S, bundle);
-        drawKeyText(howlingKeyBtn, "Howling", "keyHowling", Input.Keys.D, bundle);
-        drawKeyText(focusKeyBtn, "Focus (Heal)", "keyFocus", Input.Keys.A, bundle);
+        drawKeyText(spellKeyBtn, "Fireball", "keySpell", Input.Keys.S, bundle); // 💡
+        drawKeyText(howlingKeyBtn, "Howling", "keyHowling", Input.Keys.D, bundle); // 💡
+        drawKeyText(focusKeyBtn, "Focus (Heal)", "keyFocus", Input.Keys.A, bundle); // 💡
         fontSmall.draw(batch, bundle.get("reset_audio"), resetAudioBtn.x, resetAudioBtn.y + 45, resetAudioBtn.width, Align.center, false);
         fontSmall.draw(batch, bundle.get("reset_controls"), resetCtrlBtn.x, resetCtrlBtn.y + 45, resetCtrlBtn.width, Align.center, false);
         fontSmall.draw(batch, bundle.get("back"), backBtn.x, backBtn.y + 45, backBtn.width, Align.center, false);
