@@ -76,16 +76,16 @@ public class KnightController {
             model.dashCooldownTimer -= delta;
         }
 
-        // 💡 آپدیت مکان Vengeful Spirit و برخورد با دیوار
+
         for (int i = model.vengefulSpirits.size - 1; i >= 0; i--) {
             Knight.VengefulSpirit vs = model.vengefulSpirits.get(i);
             vs.stateTime += delta;
-            vs.x += vs.velocityX * delta; // حرکت بدون تاثیر جاذبه
+            vs.x += vs.velocityX * delta;
 
             Rectangle vsBox = new Rectangle(vs.x, vs.y, vs.width, vs.height);
             for (SolidBlock block : mapBlocks) {
                 if (vsBox.overlaps(new Rectangle(block.x, block.y, block.width, block.height))) {
-                    vs.active = false; // نابودی در صورت برخورد با دیوار
+                    vs.active = false;
                     break;
                 }
             }
@@ -96,11 +96,11 @@ public class KnightController {
         for (int i = model.howlingWraiths.size - 1; i >= 0; i--) {
             Knight.HowlingWraiths hw = model.howlingWraiths.get(i);
             hw.stateTime += delta;
-            //
+
             int expectedTick = (int) (hw.stateTime / 0.2f);
             if (expectedTick > hw.currentTick) {
                 hw.currentTick = expectedTick;
-                hw.hitInCurrentTick.clear(); //
+                hw.hitInCurrentTick.clear();
             }
             if (hw.stateTime >= hw.maxDuration) {
                 model.howlingWraiths.removeIndex(i);
@@ -110,12 +110,12 @@ public class KnightController {
         if (model.knockbackTimer > 0) {
             model.knockbackTimer -= delta;
 
-            // 💡 اضافه کردن اصطکاک: سرعتِ پرتاب به مرور کم می‌شود
+
             model.velocityX = MathUtils.lerp(model.velocityX, 0, 5f * delta);
         } else {
             handleInput();
         }
-        checkSpikePogo(); // 💡 فراخوانی چک کردن خارها قبل از اعمال فیزیک
+        checkSpikePogo();
         applyPhysics(delta);
         updateState(delta);
     }

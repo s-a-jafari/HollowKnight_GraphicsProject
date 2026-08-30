@@ -13,7 +13,7 @@ public class TriggerAnimationView {
     public TriggerAnimationView() {
         Array<TextureRegion> frames = new Array<>();
         for (int i = 0; i <= 6; i++) {
-            frames.add(new TextureRegion(new Texture("City Of Tears/GG_grimm_bow0" + String.format("%03d", i) + ".png")));
+            frames.add(new TextureRegion(new Texture("City of Tears/GG_grimm_bow0" + String.format("%03d", i) + ".png")));
         }
 
         eventAnimation = new Animation<>(0.1f, frames, Animation.PlayMode.NORMAL);
